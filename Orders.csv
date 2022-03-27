@@ -1,0 +1,4 @@
+Id,User Id,Type,Status,Total Price,Total Discount,Total
+1,1,Cash on Delivery,Complete,1000,10,900
+2,2,card,Complete,5000,20,4000
+3,3,Cash,Complete,10000,20,8000
